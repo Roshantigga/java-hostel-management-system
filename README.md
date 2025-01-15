@@ -1,3 +1,11 @@
-Java Hostel Management System
+Java Hostel Management System  
+
 login : hostel
-password : admin
+password : admin  
+
+tech used :  
+MY SQL  
+NETBEANS  
+JDBC is used (jar file)
+
+
