@@ -6,6 +6,6 @@ password : admin
 tech used :  
 MY SQL  
 NETBEANS  
-JDBC is used (jar file)
+JDBC is used (jar file).
 
 
