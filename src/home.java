@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 public class home extends javax.swing.JFrame {
 
     /**
-     * Creates new form home
+     * if you want to add more pages then you can add here 
      */
     public home() {
         initComponents();
